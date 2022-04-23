@@ -2,7 +2,7 @@
 Reproducing BERT results from BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 
 ### Fine Tuning
-Instructions to run the code below:<br>
+Instructions to run the code in AI Mini Project notebook:<br>
 Create 'SQuAD' folder where project path is set and add train, dev and evalute script in it.<br>
 Create 'BERT_BASE' folder and add model, config and vocab files to it.<br>
 Create 'Output' folder and set as Output directory<br>
